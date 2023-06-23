@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lionardkevin
+- 👀 I’m interested in software engineer
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on a project
